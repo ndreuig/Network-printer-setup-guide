@@ -22,7 +22,7 @@ This guide walks through adding a network printer manually using an IP address �
 ---
 
 📷 *Screenshot 1*
-> ![](screenshots/1-add-printer-wizard.PNG)
+> ![](screenshots/printer-not-listed.PNG)
 
 ## Step 2 — Choose "Add a printer using an IP address or hostname"
 
@@ -39,7 +39,8 @@ On the **"Find a printer by other options"** screen:
 ---
 
 📷 *Screenshot 2*
-> ![](screenshots/2-printer-tcpip-config.PNG)
+> ![](screenshots/1-add-printer-wizard.PNG)
+
 
 ## Step 3 — Enter the IP Address
 
@@ -59,7 +60,8 @@ On the **"Type a printer hostname or IP address"** screen:
 ---
 
 📷 *Screenshot 3*
-> ![](screenshots/3-printer-driver-selected.PNG)
+> ![](screenshots/2-printer-tcpip-config.PNG)
+
 
 ## Step 4 — Install the Printer Driver
 
@@ -77,7 +79,8 @@ On the **"Install the printer driver"** screen:
 ---
 
 📷 *Screenshot 4*
-> ![](screenshots/4-network-printer-added.PNG)
+> ![](screenshots/3-printer-driver-selected.PNG)
+
 
 ## Step 5 — Name the Printer
 
@@ -87,6 +90,8 @@ On the **"Type a printer name"** screen:
 - The screen confirms which driver will be used
 - Click **Next**
 
+📷 *Screenshot 5*
+> ![](screenshots/4-network-printer-added.PNG)
 ---
 
 ## Step 6 — Finish
